@@ -1,6 +1,5 @@
-name: Lawandja
+name: LawandjaBungeeSuite
 main: de.aestis.lawandjabsuite.Main
 description: High Fantasy MMORPG WoW-like Framework for JenoMiners.de
 version: 0.0.1
-author: [Aestis.de, Jenominers.de]
-api-version: 1.15
+api-version: 1.16
